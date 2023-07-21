@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/postgres?currentSchema=test
+    username: postgres
+    password: 123
+
+app:
+  url: https://psologin.homedepot.com/siteminderagent/forms/hdlogin.fcc?TYPE=33554433&REALMOID=06-000a412e-6097-17e3-b5a1-69460a45a0be&GUID=&SMAUTHREASON=0&METHOD=GET&SMAGENTNAME=-SM-bKXoXwKCEvltTJBCjSrsu7l%2bQJruYy6XbhvKhW85WgNZWvbWKVnM2vfsVekTxpGS&TARGET=-SM-HTTPS%3a%2f%2fpsoaccess%2ehomedepot%2ecom%2faffwebservices%2fredirectjsp%2fredirect%2ejsp%3fSPID%3ddirectcommerce%2ecom%26SMPORTALURL%3dhttps-%3A-%2F-%2Fpsoaccess%2ehomedepot%2ecom-%2Faffwebservices-%2Fpublic-%2Fsaml2sso%26SAMLTRANSACTIONID%3d11472c2b--015cebe4--c4e87c81--85b046a6--b8115b35--f7d
+  user-name: SXA9SUK
+  password: Winter#223
+  api: http://138.68.7.138/api/api_instant?a=agent_input_file&agent_input_file_id=8a0cd58f8b7b422878e6f5fc42d7d84c&token=aef58ceef24c392f0db69d0d1b0f8841&format=json
